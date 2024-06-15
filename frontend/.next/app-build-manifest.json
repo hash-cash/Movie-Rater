@@ -16,22 +16,37 @@
       "static/chunks/main-app.js",
       "static/chunks/app/movies/page.js"
     ],
-    "/movies/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/movies/[id]/page.js"
-    ],
     "/ratings/add/[id]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/ratings/add/[id]/page.css",
       "static/chunks/app/ratings/add/[id]/page.js"
     ],
+    "/movies/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/movies/[id]/page.js"
+    ],
+    "/movies/add/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/movies/add/page.js"
+    ],
     "/movies/edit/[id]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/movies/edit/[id]/page.css",
       "static/chunks/app/movies/edit/[id]/page.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/about/page.js"
+    ],
+    "/movies/search/[search]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/movies/search/[search]/page.js"
     ]
   }
 }

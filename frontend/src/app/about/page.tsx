@@ -49,9 +49,9 @@ export default function Performers() {
               </Heading>
               <UnorderedList>
                 <ListItem>Malek Ayman Mohamad Dahy - A20EC3020</ListItem>
-                <ListItem>Malek Ayman Mohamad Dahy - A20EC3020</ListItem>
-                <ListItem>Malek Ayman Mohamad Dahy - A20EC3020</ListItem>
-                <ListItem>Malek Ayman Mohamad Dahy - A20EC3020</ListItem>
+                <ListItem>Hibban Kamil Hizbuttahir - A20EC5022</ListItem>
+                <ListItem>Md Mostafizur Rahman Masud - A18CS4030</ListItem>
+                <ListItem>Md Shafiur Rahman - A20EC4034</ListItem>
               </UnorderedList>
               <Stack spacing={6} direction={'row'}>
                 <Link href={'/'}>
